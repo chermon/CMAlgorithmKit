@@ -1,0 +1,27 @@
+PODS:
+  - CMAlgorithmKit (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CMAlgorithmKit (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CMAlgorithmKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CMAlgorithmKit: 84ab3a267cb1bef60b5e1482e45d51dca2c35305
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 7e08f827b42e7954075204871bc581ede6164459
+
+COCOAPODS: 1.9.3

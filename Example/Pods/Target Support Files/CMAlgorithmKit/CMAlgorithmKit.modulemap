@@ -1,0 +1,6 @@
+framework module CMAlgorithmKit {
+  umbrella header "CMAlgorithmKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CMAlgorithmKit",
+  "version": "0.1.0",
+  "summary": "A short description of CMAlgorithmKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chermon/CMAlgorithmKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chermon": "chermon15@163.com"
+  },
+  "source": {
+    "git": "https://github.com/chermon/CMAlgorithmKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CMAlgorithmKit/Classes/**/*"
+}
